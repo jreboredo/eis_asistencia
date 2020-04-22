@@ -1,4 +1,4 @@
-﻿# Asistencia para la clase de EIS cuatrimestre "yyyy-mm-cc" 
+﻿# Asistencia para la clase de EIS cuatrimestre "2020-1C"
 
 Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork + Feature branch".
 
@@ -35,38 +35,38 @@ El docente se encargará de realizar la mezcla.
 Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 
-| Legajo | Nombre y Apellido                     | "fecha"    |
-| :----: | :-----------------------------------: | :--------: |
-| 31251  |                                       |            |
-| 34627  |                                       |            |
-| 35570  |                                       |            |
-| 42553  |                                       |            |
-| 40629  |                                       |            |
-| 39974  |                                       |            |
-| 42237  |                                       |            |
-| 37859  |                                       |            |
-| 34919  |                                       |            |
-| 39817  |                                       |            |
-| 31018  |                                       |            |
-| 35172  |                                       |            |
+| Legajo | Nombre y Apellido                     | "27-04-2020" |
+| :----: | :-----------------------------------: | :--------:   |
+| 31251  |                                       |              |
+| 34627  |                                       |              |
+| 35570  |                                       |              |
+| 42553  |                                       |              |
+| 40629  |                                       |              |
+| 39974  |                                       |              |
+| 42237  |                                       |              |
+| 37859  |                                       |              |
+| 34919  |                                       |              |
+| 39817  |                                       |              |
+| 31018  |                                       |              |
+| 35172  |                                       |              |
 
 ## Lista de alumnos Comision #2
 
-| Legajo      | Nombre y Apellido                     | "fecha"    |
-| :----:      | :-----------------------------------: | :--------: |
-| 34461       |                                       |            |
-| 34488       |                                       |            |
-| Intercambio |                                       |            |
-| 39733       |                                       |            |
-| 40014       |                                       |            |
-| 42927       |                                       |            |
-| 35223       |                                       |            |
-| 41382       |                                       |            |
-| 30963       |                                       |            |
-| 34228       |                                       |            |
-| 35171       |                                       |            |
-| 40756       |                                       |            |
-| 38868       |                                       |            |
+| Legajo      | Nombre y Apellido                     | "27-04-2020" |
+| :----:      | :-----------------------------------: | :--------:   |
+| 34461       |                                       |              |
+| 34488       |                                       |              |
+| Intercambio |                                       |              |
+| 39733       |                                       |              |
+| 40014       |                                       |              |
+| 42927       |                                       |              |
+| 35223       |                                       |              |
+| 41382       |                                       |              |
+| 30963       |                                       |              |
+| 34228       |                                       |              |
+| 35171       |                                       |              |
+| 40756       |                                       |              |
+| 38868       |                                       |              |
 
 
 
