@@ -1,6 +1,6 @@
-﻿# Asistencia para la clase de EIS cuatrimestre <yyyy-mm-cc> 
+﻿# Asistencia para la clase de EIS cuatrimestre "yyyy-mm-cc" 
 
-Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork + Feature branch**.
+Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork + Feature branch".
 
 ## Detalles de la actividad
 
@@ -10,14 +10,14 @@ Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork +
 
 0. Realizar el fork de "este repositorio".
 1. Clonarse el repositorio.
-2. Introducir la modificación en la tabla que se lista a continuación en el branch `<legajo>` creado a partir del branch `master`.
+2. Introducir la modificación en la tabla que se lista a continuación en un branch `<legajo>` creado a partir del branch `master`.
 3. Agregar el comentario de commit utilizando como leyenda `<Legajo> - <Apellido>`.
 4. Subir el branch `<legajo>` al repositorio remoto de su cuenta (repositorio creado en el paso 0).
 5. Realizar un pedido de cambio (PR) para poder mezclar el branch `<legajo>` -> `<master>`
 
 ## Forma de entrega:
 
-Para hacer la entrega de la actividad en el campus de la materia van a necesitar agregar el link al PR que contiene lo que se detalla en el punto 3 del apartado anterior. 
+Para hacer la entrega de la actividad en el campus de la materia van a necesitar agregar el link al PR que contiene lo que se detalla en el punto 3 del apartado anterior (aquí finaliza su tarea).
 
 El docente se encargará de realizar la mezcla.
 
@@ -35,7 +35,7 @@ El docente se encargará de realizar la mezcla.
 Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 
-| Legajo | Nombre y Apellido                     | <fecha>    |
+| Legajo | Nombre y Apellido                     | "fecha"    |
 | :----: | :-----------------------------------: | :--------: |
 | 31251  |                                       |            |
 | 34627  |                                       |            |
@@ -52,7 +52,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 ## Lista de alumnos Comision #2
 
-| Legajo      | Nombre y Apellido                     | <fecha>
+| Legajo      | Nombre y Apellido                     | "fecha"    |
 | :----:      | :-----------------------------------: | :--------: |
 | 34461       |                                       |            |
 | 34488       |                                       |            |
