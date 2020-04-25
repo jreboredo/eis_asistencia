@@ -41,7 +41,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 34627  |                                       |              |
 | 35570  |                                       |              |
 | 42553  |                                       |              |
-| 40629  |                                       |              |
+| 40629  |  Pablo Diaz                           |              |
 | 39974  |                                       |              |
 | 42237  |                                       |              |
 | 37859  |                                       |              |
