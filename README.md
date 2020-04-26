@@ -46,7 +46,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 42237  |                                       |              |
 | 37859  |                                       |              |
 | 34919  |                                       |              |
-| 39817  |                                       |              |
+| 39817  |Jonathan Gutierrez                                       |              |
 | 31018  |                                       |              |
 | 35172  |                                       |              |
 
