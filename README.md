@@ -58,7 +58,6 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 34488       |                                       |              |
 | Intercambio |                                       |              |
 | 39733       |                                       |              |
-| 40014       |                                       |              |
 | 42927       |                                       |              |
 | 35223       |                                       |              |
 | 41382       |                                       |              |
@@ -67,7 +66,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 35171       |                                       |              |
 | 40756       |                                       |              |
 | 38868       |                                       |              |
-
+| 40014       |                                       |              |
 
 
 
