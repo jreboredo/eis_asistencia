@@ -45,7 +45,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 39974  |                                       |              |
 | 42237  |                                       |              |
 | 37859  |                                       |              |
-| 34919  |                                       |              |
+| 34919  | Enzo Galarza                          |              |
 | 39817  |                                       |              |
 | 31018  |                                       |              |
 | 35172  |                                       |              |
