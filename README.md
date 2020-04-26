@@ -59,7 +59,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | Intercambio |                                       |              |
 | 39733       |                                       |              |
 | 40014       |                                       |              |
-| 42927       |                                       |              |
+| 42927       | Gastón Goffredo                       | 26-04-2020   |
 | 35223       |                                       |              |
 | 41382       |                                       |              |
 | 30963       |                                       |              |
