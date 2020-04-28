@@ -47,7 +47,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 37859  |                                       |              |
 | 34919  |                                       |              |
 | 39817  |                                       |              |
-| 31018  |                                       |              |
+| 31018  | Lucas Morón                           |  27-04-2020  |
 | 35172  |                                       |              |
 
 ## Lista de alumnos Comision #2
