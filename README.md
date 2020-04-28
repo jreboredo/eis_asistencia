@@ -1,4 +1,4 @@
-﻿# Asistencia para la clase de EIS cuatrimestre "2020-1C"
+# Asistencia para la clase de EIS cuatrimestre "2020-1C"
 
 Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork + Feature branch".
 
@@ -40,7 +40,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 31251  |                                       |              |
 | 34627  |                                       |              |
 | 35570  |                                       |              |
-| 42553  |                                       |              |
+| 42553  |	x	x	x	x	x	x	x	x	x	 |              |
 | 40629  |                                       |              |
 | 39974  |                                       |              |
 | 42237  |                                       |              |
