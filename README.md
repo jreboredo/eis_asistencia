@@ -60,14 +60,13 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 39733       |                                       |              |
 | 40014       |                                       |              |
 | 42927       |                                       |              |
-| 35223       |                                       |              |
+| 35223       |       Sebastian Gaston Incarbone      |   Presente   |
 | 41382       |                                       |              |
 | 30963       |                                       |              |
 | 34228       |                                       |              |
 | 35171       |                                       |              |
 | 40756       |                                       |              |
 | 38868       |                                       |              |
-| 35223       |                                       |              |
 
 
 
