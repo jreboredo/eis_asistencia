@@ -67,7 +67,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 35171       |                                       |              |
 | 40756       | Svrznjak Spinelli Francisco           | 27-04-2020   |
 | 38868       |                                       |              |
-
+| 39733       |            			      |              |
 
 
 
