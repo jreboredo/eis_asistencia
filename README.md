@@ -38,7 +38,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | Legajo | Nombre y Apellido                     | "27-04-2020" |
 | :----: | :-----------------------------------: | :--------:   |
 | 31251  |                                       |              |
-| 34627  |                                       |              |
+| 34627  | Matías Cabrera                        |              |
 | 35570  |                                       |              |
 | 42553  |	x	x	x	x	x	x	x	x	x	 |              |
 | 40629  |                                       |              |
