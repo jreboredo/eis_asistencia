@@ -58,7 +58,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 34488       |                                       |              |
 | Intercambio |                                       |              |
 | 39733       |                                       |              |
-| 40014       |                                       |              |
+| 40014       |Federico Garetti                       |26-04-2020    |
 | 42927       |                                       |              |
 | 35223       |       Sebastian Gaston Incarbone      |   Presente   |
 | 41382       |                                       |              |
