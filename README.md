@@ -42,7 +42,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 35570  |                                       |              |
 | 42553  |                                       |              |
 | 40629  |                                       |              |
-| 39974  |                                       |              |
+| 39974  |  Miguel Angel Equilea                                     |              |
 | 42237  |                                       |              |
 | 37859  |                                       |              |
 | 34919  |                                       |              |
