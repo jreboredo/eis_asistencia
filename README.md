@@ -62,7 +62,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 42927       |                                       |              |
 | 35223       |       Sebastian Gaston Incarbone      |   Presente   |
 | 41382       |                                       |              |
-| 30963       |                                       |              |
+| 30963       | Ailin Patiño                          | "27-04-2020" |
 | 34228       |                                       |              |
 | 35171       |                                       |              |
 | 40756       | Svrznjak Spinelli Francisco           | 27-04-2020   |
