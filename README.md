@@ -54,7 +54,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 | Legajo      | Nombre y Apellido                     | "27-04-2020" |
 | :----:      | :-----------------------------------: | :--------:   |
-| 34461       |                                       |              |
+| 34461       | Nicolas Bellini                       |  38842181    |
 | 34488       |                                       |              |
 | Intercambio |                                       |              |
 | 39733       |                                       |              |
