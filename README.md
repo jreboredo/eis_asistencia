@@ -1,4 +1,4 @@
-﻿# Asistencia para la clase de EIS cuatrimestre "2020-1C"
+# Asistencia para la clase de EIS cuatrimestre "2020-1C"
 
 Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork + Feature branch".
 
@@ -38,36 +38,36 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | Legajo | Nombre y Apellido                     | "27-04-2020" |
 | :----: | :-----------------------------------: | :--------:   |
 | 31251  |                                       |              |
-| 34627  |                                       |              |
+| 34627  | Matías Cabrera                        |              |
 | 35570  |                                       |              |
-| 42553  |                                       |              |
+| 42553  |	x	x	x	x	x	x	x	x	x	 |              |
 | 40629  |                                       |              |
-| 39974  |                                       |              |
+| 39974  |  Miguel Angel Equilea                                     |              |
 | 42237  |                                       |              |
 | 37859  |                                       |              |
-| 34919  |                                       |              |
+| 34919  | Enzo Galarza                          |              |
 | 39817  |                                       |              |
-| 31018  |                                       |              |
+| 31018  | Lucas Morón                           |  27-04-2020  |
 | 35172  |                                       |              |
 
 ## Lista de alumnos Comision #2
 
 | Legajo      | Nombre y Apellido                     | "27-04-2020" |
 | :----:      | :-----------------------------------: | :--------:   |
-| 34461       |                                       |              |
+| 34461       | Nicolas Bellini                       |  38842181    |
 | 34488       |                                       |              |
 | Intercambio |                                       |              |
 | 39733       |                                       |              |
-| 40014       |                                       |              |
+| 40014       |Federico Garetti                       |26-04-2020    |
 | 42927       | Gastón Goffredo                       | 26-04-2020   |
-| 35223       |                                       |              |
+| 35223       |       Sebastian Gaston Incarbone      |   Presente   |
 | 41382       |                                       |              |
-| 30963       |                                       |              |
+| 30963       | Ailin Patiño                          | "27-04-2020" |
 | 34228       |                                       |              |
 | 35171       |                                       |              |
-| 40756       |                                       |              |
+| 40756       | Svrznjak Spinelli Francisco           | 27-04-2020   |
 | 38868       |                                       |              |
-
+| 39733       |            			      |              |
 
 
 
