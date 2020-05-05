@@ -45,8 +45,9 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 39974  |  Miguel Angel Equilea                                     |              |
 | 42237  |                                       |              |
 | 37859  |                                       |              |
+=======
 | 34919  | Enzo Galarza                          |              |
-| 39817  |                                       |              |
+| 39817  | Jonathan Gutierrez                                       |              |
 | 31018  | Lucas Morón                           |  27-04-2020  |
 | 35172  | Rodriguez Fennema Lucas Damian	 |              |
 
