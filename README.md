@@ -61,7 +61,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | Intercambio |                                       |              |
 | 39733       |                                       |              |
 | 40014       |Federico Garetti                       |26-04-2020    |
-| 42927       |                                       |              |
+| 42927       | Gastón Goffredo                       | 26-04-2020   |
 | 35223       |       Sebastian Gaston Incarbone      |   Presente   |
 | 41382       |                                       |              |
 | 30963       | Ailin Patiño                          | "27-04-2020" |
