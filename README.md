@@ -48,7 +48,8 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 34919  | Enzo Galarza                          |              |
 | 39817  |                                       |              |
 | 31018  | Lucas Morón                           |  27-04-2020  |
-| 35172  |                                       |              |
+| 35172  | Rodriguez Fennema Lucas Damian	 |              |
+
 
 ## Lista de alumnos Comision #2
 
