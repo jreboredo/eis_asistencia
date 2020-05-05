@@ -41,7 +41,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 34627  | Matías Cabrera                        |              |
 | 35570  |                                       |              |
 | 42553  |	x	x	x	x	x	x	x	x	x	 |              |
-| 40629  |                                       |              |
+| 40629  |  Diaz Pablo                                     |              |
 | 39974  |  Miguel Angel Equilea                                     |              |
 | 42237  |                                       |              |
 | 37859  |                                       |              |
