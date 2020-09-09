@@ -17,7 +17,7 @@ Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork +
 
 ## Forma de entrega:
 
-Para hacer la entrega de la actividad en el campus de la materia van a necesitar agregar el link al PR que contiene lo que se detalla en el punto 3 del apartado anterior (aquí finaliza su tarea).
+Es suficiente confeccionar el PR.
 
 El docente se encargará de realizar la mezcla.
 
