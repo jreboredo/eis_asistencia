@@ -43,5 +43,5 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
-|        |                                       |            |
+| 46351  | Juan Cruz Reboredo                    | 09/09/2020 |
 
