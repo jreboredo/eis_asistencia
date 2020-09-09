@@ -1,4 +1,4 @@
-﻿# Asistencia para la clase de EIS cuatrimestre "yyyy-mm-cc" 
+﻿# Asistencia para la clase de EIS cuatrimestre "2020-09-07"
 
 Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork + Feature branch".
 
@@ -35,15 +35,15 @@ El docente se encargará de realizar la mezcla.
 Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 
-| Legajo | Nombre y Apellido                     | "fecha"    |
+| Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
 |        |                                       |            |
 
 ## Lista de alumnos Comision #2
 
-| Legajo      | Nombre y Apellido                     | "fecha"    |
-| :----:      | :-----------------------------------: | :--------: |
-|             |                                       |            |
+| Legajo | Nombre y Apellido                     | 07/09/2020 |
+| :----: | :-----------------------------------: | :--------: |
+|        |                                       |            |
 
 
 
