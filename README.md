@@ -25,7 +25,7 @@ El docente se encargará de realizar la mezcla.
 
 - Tener en cuenta que van a existir varias personas subiendo cambios al mismo archivo y por tanto es probable que ocurran conflictos. La forma de subsanar estos problemas es realizando una mezcla de archivos (van a tener que configurar diferentes remotos `origin` y `upstream`).
 
-- Acuerden con sus compañeros como se van a distribuir los períodos en los cuales van a subir los cambios al archivo `README.md**.
+- Acuerden con sus compañeros como se van a distribuir los períodos en los cuales van a subir los cambios al archivo `README.md`.
 
 
 ## Lista de alumnos Comision #1
@@ -44,23 +44,4 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
 |        |                                       |            |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
